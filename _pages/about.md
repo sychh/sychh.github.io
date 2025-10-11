@@ -27,7 +27,7 @@ Academic Services
 ======
 *   Associate chair of ACM CHI 2025,2026
 *   Associate chair of ACM CHI Late Breaking Works (CHI LBW) 2024,2025
-*   Associate chair of ACM CSCW 2024,2025
+*   Associate chair of ACM CSCW 2025,2026
 *   Associate chair of ACM UbiComp/ISWC 2025
 *   Associate chair of ACM IUI 2026
 *   Associate chair of ACM VINCI 2026
