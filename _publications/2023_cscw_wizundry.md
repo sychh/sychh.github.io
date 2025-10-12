@@ -4,7 +4,7 @@ collection: publications
 category: papers
 date: 2023-04-16
 year: 2023
-authors: "**Siying Hu**, Hen Chen Yen, Ziwei Yu, Mingjian Zhao, Katie Seaborn, and Can Liu"
+authors: "Siying Hu, Hen Chen Yen, Ziwei Yu, Mingjian Zhao, Katie Seaborn, and Can Liu"
 conference: "ACM CSCW"
 paperurl: "https://dl.acm.org/doi/abs/10.1145/3579591"
 thumbnail: /images/2023_cscw_wizundry.jpg
