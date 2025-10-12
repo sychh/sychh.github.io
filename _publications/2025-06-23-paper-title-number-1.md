@@ -7,6 +7,6 @@ year: 2025
 authors: "Xiangzhe Yuan, Jiajun Wang, Qian Wan, Siying Hu*"
 conference: "ACM FAccT"
 paperurl: "https://dl.acm.org/doi/full/10.1145/3715275.3732090"
-thumbnail: /images/papers/dirty-work-thumb.png
+thumbnail: /images/FAcct.jpeg
 selected: true
 ---
