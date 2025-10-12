@@ -4,7 +4,7 @@ collection: publications
 category: papers
 date: 2025-06-23
 year: 2025
-authors: "Xiangzhe Yuan, Jiajun Wang, Qian Wan, **Siying Hu**"
+authors: "Xiangzhe Yuan, Jiajun Wang, Qian Wan, _Siying Hu_"
 conference: "ACM FAccT"
 paperurl: "https://dl.acm.org/doi/full/10.1145/3715275.3732090"
 thumbnail: /images/2025_facct.jpeg
