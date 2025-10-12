@@ -1,13 +1,9 @@
----
-title: "Paper Title Number 1"
+title: "A Day in Their Shoes: Using LLM-Based Perspective-Taking Interactive Fiction to Reduce Stigma Toward Dirty Work"
 collection: publications
 category: papers
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
+permalink: /publication/2025-06-23-dirty-work-perspective-taking
+excerpt: "We study whether LLM-driven perspective-taking interactive fiction can reduce stigma toward 'dirty work' occupations."
+date: 2025-06-23
+venue: "ACM FAccT"
+paperurl: "https://dl.acm.org/doi/full/10.1145/3715275.3732090"
+citation: 'Xiangzhe Yuan, Jiajun Wang, Qian Wan, Siying Hu*. (2025). "A Day in Their Shoes: Using LLM-Based Perspective-Taking Interactive Fiction to Reduce Stigma Toward Dirty Work." <i>FAccT’25</i>.'
