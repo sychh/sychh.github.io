@@ -9,5 +9,5 @@ venue: "ACM FAccT"
 slidesurl: 'https://dl.acm.org/doi/full/10.1145/3715275.3732090'
 paperurl: 'http://sychh.github.io/files/Facct’25.pdf'
 bibtexurl: 'http://sychh.github.io/files/acm_3715275.3732090.bib'
-citation: 'Xiangzhe Yuan, Jiajun Wang, Qian Wan, Siying Hu*. (2025). "A Day in Their Shoes: Using LLM-Based Perspective-Taking Interactive Fiction to Reduce Stigma Toward Dirty Work." <i>ACM FAccT</i>.'
+citation: 'Xiangzhe Yuan, Jiajun Wang, Qian Wan, Siying Hu*. (2025). <i>ACM FAccT‘25</i>.'
 ---
