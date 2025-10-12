@@ -1,0 +1,83 @@
+{% comment %}
+卡片式 publication 条目（兼容 AcademicPages 常见字段）
+识别字段：
+- title（必需）
+- authors 或 citation（若无 authors 时显示）
+- year 或 date（date 可为 2025 或 YYYY-MM-DD）
+- journal 或 conference（可选）
+- thumbnail（可选）
+- permalink > link > paperurl > pdf > arxiv > doi（按钮链接优先级）
+- selected（可选，加星）
+{% endcomment %}
+
+{% capture venue %}
+  {% if page.conference %}{{ page.conference }}{% elsif page.journal %}{{ page.journal }}{% endif %}
+{% endcapture %}
+
+{%- assign year = page.year | default: page.date -%}
+{%- if year -%}
+  {%- assign year_str = year | append: "" -%}
+  {%- if year_str contains "-" -%}{% assign year = year_str | split: "-" | first %}{% endif -%}
+{%- endif -%}
+
+{%- assign href = page.permalink -%}
+{%- if href == nil or href == "" -%}{% assign href = page.link %}{% endif -%}
+{%- if href == nil or href == "" -%}{% assign href = page.paperurl %}{% endif -%}
+{%- if href == nil or href == "" and page.pdf -%}{% assign href = page.pdf | relative_url %}{% endif -%}
+{%- if href == nil or href == "" and page.arxiv -%}{% assign href = "https://arxiv.org/abs/" | append: page.arxiv %}{% endif -%}
+{%- if href == nil or href == "" and page.doi -%}{% assign href = "https://doi.org/" | append: page.doi %}{% endif -%}
+
+<article class="pub-card" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="pub-card__inner">
+    {% if page.thumbnail %}
+      <a class="pub-card__thumb" href="{{ href }}" aria-label="Open {{ page.title }}">
+        <img src="{{ page.thumbnail | relative_url }}" alt="thumbnail of {{ page.title }}">
+      </a>
+    {% endif %}
+
+    <div class="pub-card__body">
+      <h3 class="pub-card__title" itemprop="headline">
+        {% if page.selected %}⭐ {% endif %}
+        {% if href %}<a href="{{ href }}">{{ page.title }}</a>{% else %}{{ page.title }}{% endif %}
+      </h3>
+
+      {% if page.authors %}
+        <div class="pub-card__authors">{{ page.authors }}</div>
+      {% elsif page.citation %}
+        <div class="pub-card__authors">{{ page.citation }}</div>
+      {% endif %}
+
+      {% if venue or year %}
+        <div class="pub-card__meta">
+          {% if venue %}Published in <em>{{ venue }}</em>{% endif %}{% if year %}{% if venue %}, {% endif %}{{ year }}{% endif %}
+        </div>
+      {% endif %}
+
+      {% if href %}
+        <div class="pub-card__actions">
+          <a class="btn btn--small" href="{{ href }}">
+            {% if page.pdf and href contains page.pdf %}Download Paper{% else %}Open Link{% endif %}
+          </a>
+        </div>
+      {% endif %}
+    </div>
+  </div>
+</article>
+
+<style>
+  .pub-card { background: #fff; border-radius: 12px; box-shadow: 0 2px 16px rgba(0,0,0,0.06); padding: 16px; }
+  .pub-card__inner { display: grid; grid-template-columns: 140px 1fr; gap: 16px; align-items: start; }
+  .pub-card__thumb img { width: 100%; height: auto; border-radius: 8px; display: block; }
+  .pub-card__title { margin: 0 0 6px; font-weight: 700; line-height: 1.25; }
+  .pub-card__title a { text-decoration: none; }
+  .pub-card__authors { color: #2f4f4f; margin-bottom: 6px; }
+  .pub-card__meta { color: #666; margin-bottom: 10px; }
+  .pub-card__actions { margin-top: 4px; }
+  .btn.btn--small { padding: 0.25rem 0.6rem; font-size: 0.9em; }
+  @media (max-width: 640px) {
+    .pub-card__inner { grid-template-columns: 80px 1fr; gap: 12px; }
+  }
+  @media (max-width: 420px) {
+    .pub-card__inner { grid-template-columns: 1fr; }
+  }
+</style>
