@@ -1,0 +1,12 @@
+---
+title: "Wizundry: A cooperative wizard of oz platform for simulating future speech-based interfaces with multiple wizards"
+collection: publications
+category: papers
+date: 2023-04-16
+year: 2023
+authors: "Xiangzhe Yuan, Jiajun Wang, Qian Wan, **Siying Hu**"
+conference: "ACM CSCW"
+paperurl: "https://dl.acm.org/doi/abs/10.1145/3579591"
+thumbnail: /images/2023_cscw_wizundry.jpg
+selected: true
+---
