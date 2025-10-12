@@ -6,6 +6,6 @@ excerpt: "We study whether LLM-driven perspective-taking interactive fiction can
 date: 2025-06-23
 venue: "ACM FAccT"
 slidesurl: "https://dl.acm.org/doi/full/10.1145/3715275.3732090" # 若暂无可先留空或删除此行
-paperurl: "http://sychh.github.io/files/Facct’25"
+paperurl: "http://sychh.github.io/files/Facct’25.pdf"
 bibtexurl: "https://dl.acm.org/doi/full/10.1145/3715275.3732090" # 若暂无可先留空或删除此行
 citation: 'Xiangzhe Yuan, Jiajun Wang, Qian Wan, Siying Hu*. (2025). "A Day in Their Shoes: Using LLM-Based Perspective-Taking Interactive Fiction to Reduce Stigma Toward Dirty Work." <i>ACM FAccT</i>.'
