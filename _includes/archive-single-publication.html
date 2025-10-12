@@ -2,12 +2,18 @@
 卡片式 publication 条目（兼容 AcademicPages 常见字段）
 识别字段：
 - title（必需）
-- authors 或 citation（若无 authors 时显示）
+- authors（推荐，逗号分隔）或 citation（若无 authors 时显示）
 - year 或 date（date 可为 2025 或 YYYY-MM-DD）
-- journal 或 conference（可选）
-- thumbnail（可选）
-- permalink > link > paperurl > pdf > arxiv > doi（按钮链接优先级）
+- journal 或 conference（可选，用于显示 “Published in …, YEAR”）
+- thumbnail（可选，缩略图，建议宽 600–1000px）
+- permalink（主外链，最高优先）
+- link（次优）
+- paperurl（再次）
+- pdf（若无以上则用；本地或外链都可）
+- arxiv（abs 链接兜底）
+- doi（doi.org 兜底）
 - selected（可选，加星）
+按钮只显示一个：优先级 permalink > link > paperurl > pdf > arxiv > doi
 {% endcomment %}
 
 {% capture venue %}
