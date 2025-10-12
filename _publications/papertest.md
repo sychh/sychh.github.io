@@ -1,7 +1,7 @@
 title: "A Day in Their Shoes: Using LLM-Based Perspective-Taking Interactive Fiction to Reduce Stigma Toward Dirty Work"
 collection: publications
 category: papers
-permalink: /publication/2025-06-23-dirty-work-perspective-taking
+permalink: /publication/papertest
 excerpt: "We study whether LLM-driven perspective-taking interactive fiction can reduce stigma toward 'dirty work' occupations."
 date: 2025-06-23
 venue: "ACM FAccT"
