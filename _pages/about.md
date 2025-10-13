@@ -24,7 +24,7 @@ Recent Updates
 *   Sep,2024. Two Paper accepted to CSCW'25: A Day in Their Shoes. Thanks to all those years of watching dramas and keeping up with variety shows, I got some inspo for making Impact Caption.
 
 
-Academic Services
+Program Committees
 ======
 *   Associate chair of ACM CHI 2025,2026
 *   Associate chair of ACM CHI Late Breaking Works (CHI LBW) 2024,2025
