@@ -21,7 +21,7 @@ Recent Updates
 ======
 *   Sep,2025. Paper accepted to EMNLP HCI+NLP Workshop'25: Towards Human-Centered RegTech. Gonna head to Suzhou to see the gardens ~
 *   April,2025. Paper accepted to FAcct'25: A Day in Their Shoes. Thanks and congratulations to all my co-authors!
-*   Sep,2024. Two Paper accepted to CSCW'25: A Day in Their Shoes. Thanks to all those years of watching dramas and keeping up with variety shows, I got some inspo for making Impact Caption.
+*   Sep,2024. Two Paper accepted to CSCW'25: DaModCap and SpeechCap. Thanks to all those years of watching dramas and keeping up with variety shows, I got some inspo for making Impact Caption.
 
 
 Program Committees
