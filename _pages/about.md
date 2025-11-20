@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 Hi, this is Siying Hu (Chinese: 胡思颖) ~~~ 
-I received my PhD degree in Computer Science at City University of Hong Kong under the supervision of Professor [Zhicong Lu](https://www.cs.toronto.edu/~luzhc/).
+I received my PhD degree in Computer Science at City University of Hong Kong.
 
 
 Research Interests
 ======
-My research interests lie at the intersection of Human-Computer Interaction (HCI), Human-AI Collaboration, Human-centred AI and Responsible AI. My work has been published in CHI, CSCW, FAcct, and IJHCI. My work marks a milestone, being the first paper accepted at the ACM Conference on Fairness, Accountability, and Transparency (FAccT) with a corresponding author from a Chinese research institution in Asia. Please check my [publications](https://scholar.google.com/citations?user=BJg8enwAAAAJ&hl=zh-TW) for more details.
+My research interests lie at the intersection of Human-Computer Interaction (HCI), Human-AI Collaboration, Human-centred AI and Responsible AI. My work has been published in CHI, CSCW, FAcct, IJHCI and EMNLP. My work marks a milestone, being the first paper accepted at the ACM Conference on Fairness, Accountability, and Transparency (FAccT) with a corresponding author from a Chinese research institution in Asia. Please check my [publications](https://scholar.google.com/citations?user=BJg8enwAAAAJ&hl=zh-TW) for more details.
 
 I'm currently in the Greater Bay Area, serving as a referee and coach for table tennis tournaments. Hoping to become an international referee in the future.
  
