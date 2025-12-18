@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Hi, this is Siying Hu (Chinese: 胡思颖) ~~~ 
-I received my PhD degree in Computer Science at City University of Hong Kong.
+I received my PhD degree in Computer Science at City University of Hong Kong, supervised by Professor Zhicong Lu. 
 
 
 Research Interests
