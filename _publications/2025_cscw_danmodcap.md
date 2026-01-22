@@ -8,5 +8,5 @@ authors: "Siying Hu, Huanchen Wang, Yu Zhang, Piaohong Wang, and Zhicong Lu"
 conference: "ACM CSCW"
 paperurl: "https://dl.acm.org/doi/10.1145/3710954"
 thumbnail: /images/2025_cscw_danmodcap.jpg
-selected: true
+
 ---
