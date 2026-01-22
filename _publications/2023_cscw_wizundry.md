@@ -8,5 +8,5 @@ authors: "Siying Hu, Hen Chen Yen, Ziwei Yu, Mingjian Zhao, Katie Seaborn, and C
 conference: "ACM CSCW"
 paperurl: "https://dl.acm.org/doi/abs/10.1145/3579591"
 thumbnail: /images/2023_cscw_wizundry.jpg
-selected: true
+
 ---
