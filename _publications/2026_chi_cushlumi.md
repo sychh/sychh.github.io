@@ -7,5 +7,5 @@ year: 2026
 authors: "Siying Hu, and Zhenghao Zhang"
 conference: "ACM CHI"
 paperurl: "https://doi.org/10.1145/3772318.3791978"
-
+thumbnail: /images/2026_chi_cushlumi.png
 ---
