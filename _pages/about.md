@@ -18,7 +18,7 @@ My research interests lie at the intersection of Human-Computer Interaction (HCI
 Seasons change. Life persists. 
 Academia is a chapter, not the whole story.
 
-I'm currently in the Greater Bay Area, serving as a referee and coach for table tennis tournaments. Hoping to become an international referee in the future. 加上日常更新点网文而已啦~~~
+I'm currently in the Greater Bay Area, serving as a referee and coach for table tennis tournaments. Hoping to become an international referee in the future. 业余爱好噶点网文而已~~~
  
 Recent Updates
 ======
@@ -28,11 +28,14 @@ Recent Updates
 *   Sep,2024. Two Paper accepted to CSCW'25: DaModCap and SpeechCap. Thanks to all those years of watching dramas and keeping up with variety shows, I got some inspo for making Impact Caption.
 
 
-Program Committees
+Academic Services
 ======
-*   Associate chair of ACM CHI 2025,2026
-*   Associate chair of ACM CHI Late Breaking Works (CHI LBW) 2024,2025
-*   Associate chair of ACM CSCW 2025,2026
-*   Associate chair of ACM UbiComp/ISWC 2025
-*   Associate chair of ACM IUI 2026
-*   Associate chair of ACM VINCI 2026
+* Editorial & Review Board:
+  - Distinguished Reviewer Board Member, ACM Transactions on Computer-Human Interaction (TOCHI), 2026
+* Program Committee Member: 
+  - Associate Program Subcommittee (Area) Chair of ACM CHI, 2025-2026
+  - Associate Program Subcommittee (Area) Chair of ACM CHI LBW/Poster, 2024-2026
+  - Associate Program Subcommittee (Area) Chair of of ACM CSCW, 2025-2026
+  - Associate Program Subcommittee (Area) Chair of of ACM UbiComp/ISWC, 2025
+  - Associate Program Subcommittee (Area) Chair of of IUI, 2026
+  - PC Member of VINCI (Special Track on Cultural Heritage), 2025
