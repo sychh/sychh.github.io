@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Hi, this is Siying Hu ~~ 
-I received my PhD degree in Computer Science at City University of Hong Kong, supervised by Prof. Zhicong Lu. 
+I received my PhD degree in Computer Science at City University of Hong Kong, supervised by Prof. Zhicong Lu. Master of Interaction Design in Univeristy of Queensland.
 
 
 Research Interests
@@ -23,7 +23,7 @@ I'm currently in the Greater Bay Area, serving as a referee and coach for table 
  
 Recent Updates
 ======
-*   Jan,2026. Two Paper accepted to CHI'26: Living with Data and PuppetChat. Looking forward to catching some great games in Spain and chasing sunrises by the beach.
+*   Jan,2026. Two Paper accepted to CHI'26: Living with Data and PuppetChat. Finally done with my Master's stuff (Living with Data), and it all turned out great!
 *   Sep,2025. Paper accepted to EMNLP HCI+NLP Workshop'25: Towards Human-Centered RegTech. Gonna head to Suzhou to see the gardens ~
 *   April,2025. Paper accepted to FAcct'25: A Day in Their Shoes. Thanks and congratulations to all my co-authors!
 *   Sep,2024. Two Paper accepted to CSCW'25: DaModCap and SpeechCap. Thanks to all those years of watching dramas and keeping up with variety shows, I got some inspo for making Impact Caption.
