@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Hi, this is Siying Hu ~~ 
-I received my PhD degree in Computer Science at City University of Hong Kong, supervised by Prof. Zhicong Lu. Master of Interaction Design in Univeristy of Queensland.
+I received my PhD degree in Computer Science at City University of Hong Kong. Master of Interaction Design in Univeristy of Queensland. 
 
 
 Research Interests
@@ -19,7 +19,7 @@ Seasons change. Life persists.
 
 Academia is a chapter, not the whole story.
 
-I'm currently in the Greater Bay Area, serving as a referee and coach for table tennis tournaments. Hoping to become an international referee in the future. 业余爱好噶点网文而已~~~
+I'm currently in the Greater Bay Area, serving as a referee and coach for table tennis tournaments. Hoping to become an international referee in the future. 体育执赛ing+ACCA金融财务老本行，业余爱好噶点网文而已~~~有需大湾区乒乓球壁球私教，金融审计财务业务可PM，宾至如归
  
 Recent Updates
 ======
