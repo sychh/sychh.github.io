@@ -19,7 +19,7 @@ Seasons change. Life persists.
 
 Academia is a chapter, not the whole story.
 
-I'm currently in the Greater Bay Area, serving as a referee and coach for table tennis tournaments. Hoping to become an international referee in the future. 体育执赛ing+ACCA金融财务老本行，业余爱好噶点网文而已~~~有需大湾区乒乓球壁球私教，金融审计财务业务可PM，宾至如归
+I'm currently in the Greater Bay Area, serving as a referee and coach for table tennis tournaments. Hoping to become an international referee in the future. 体育执赛ing, ACCA财务审计是老本行，厨房下的还可以，业余爱好噶点网文而已~~~
  
 Recent Updates
 ======
