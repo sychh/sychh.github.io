@@ -33,10 +33,10 @@ Academic Services
 * Editorial & Review Board:
   - Distinguished Reviewer Board Member, ACM Transactions on Computer-Human Interaction (TOCHI), 2026
 * Program Committee Member: 
-  - Associate Program Subcommittee (Area) Chair of ACM CHI, 2025,26
+  - Associate Program Subcommittee (Area) Chair of ACM CHI, 2025,26,27
   - Associate Program Subcommittee (Area) Chair of ACM CHI LBW/Poster, 2024,25,26
   - Associate Program Subcommittee (Area) Chair of ACM CSCW, 2025,26
   - Associate Program Subcommittee (Area) Chair of ACM UbiComp/ISWC, 2025,26
-  - Associate Program Subcommittee (Area) Chair of ACM IUI, 2026
+  - Associate Program Subcommittee (Area) Chair of ACM IUI, 2026,27
   - Associate Program Subcommittee (Area) Chair of ACM OzCHI, 2026
   - PC Member of VINCI (Special Track on Cultural Heritage), 2025
