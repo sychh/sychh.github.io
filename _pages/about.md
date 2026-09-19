@@ -13,7 +13,8 @@ I received my PhD degree in Computer Science at City University of Hong Kong. Ma
 
 Research
 ======
-My research interests lie at the intersection of Human-centred AI, Responsible AI and . My work has been published in CHI, CSCW, UIST, Ubicomp, FAcct and EMNLP. Please check my [publications](https://scholar.google.com/citations?user=BJg8enwAAAAJ&hl=zh-TW) for more details. My research interests include:
+My research interests lie at the intersection of Human-centred AI, Responsible AI and . My work has been published in CHI, CSCW, UIST, Ubicomp, FAcct and EMNLP. Please check my [publications](https://scholar.google.com/citations?user=BJg8enwAAAAJ&hl=zh-TW) for more details (也没有那么勤奋的更文). 
+My research interests include:
 *   Ambient Intelligence & Physcial Computing in Health and Medicine
 *   AI4Science & Intelligent Interactive Systems 
 *   LLM Safety & Alignment for Responsible AI 
