@@ -13,11 +13,12 @@ I received my PhD degree in Computer Science at City University of Hong Kong. Ma
 
 Research
 ======
-My research interests lie at the intersection of Human-Computer Interaction (HCI), Human-AI Collaboration, Human-centred AI and Responsible AI. My work has been published in CHI, CSCW, FAcct, IJHCI and EMNLP. My work marks a milestone, being the first paper accepted at the ACM Conference on Fairness, Accountability, and Transparency (FAccT) with a corresponding author from a Chinese research institution in Asia. Please check my [publications](https://scholar.google.com/citations?user=BJg8enwAAAAJ&hl=zh-TW) for more details. My research interests include:
-*   Ambient Intelligence & Health Physcial Computing
-*   LLM Safety & Alignment for Responsible AI
-*   AI for Science in Intelligent Interactive Systems
-*   Sketch-based Video Creativity
+My research interests lie at the intersection of Human-centred AI, Responsible AI and . My work has been published in CHI, CSCW, UIST, Ubicomp, FAcct and EMNLP. Please check my [publications](https://scholar.google.com/citations?user=BJg8enwAAAAJ&hl=zh-TW) for more details. My research interests include:
+*   Ambient Intelligence & Physcial Computing in Health and Medicine
+*   AI4Science & Intelligent Interactive Systems 
+*   LLM Safety & Alignment for Responsible AI 
+*   Inclusive Design in Practical and Novel Contexts 
+
 
 News
 ======
@@ -39,4 +40,4 @@ Academic Services
   - Associate Program Subcommittee (Area) Chair of ACM UbiComp/ISWC, 2025,26
   - Associate Program Subcommittee (Area) Chair of ACM IUI, 2026,27
   - Associate Program Subcommittee (Area) Chair of ACM OzCHI, 2026
-  - PC Member of VINCI (Special Track on Cultural Heritage), 2025
+  - PC Member of VINCI, 2025,26
