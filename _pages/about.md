@@ -25,9 +25,9 @@ News
 ======
 Seasons change. Life persists. 昏黄暮色，晨曦微光，暴雨雷声，烈日骄阳，四季轮换。
 
-Academia is a chapter, not the whole story. (不知道怎么写比较好形容)
+Academia is a chapter, not the whole story.
 
-I'm currently in the Greater Bay Area, serving as a referee and coach for table tennis tournaments. Hoping to become an international referee in the future. 体育执赛ing, ACCA财务审计是老本行，厨房下的还可以，业余爱好噶点网文而已~~~
+I'm currently in the Greater Bay Area, serving as a referee and coach for table tennis tournaments. Hoping to become an international referee in the future. 体育比赛执赛ing, ACCA财务审计是老本行，厨房下的还可以，业余爱好噶点网文而已~~~
 
 
 Academic Services
