@@ -10,6 +10,13 @@ redirect_from:
 Hi, this is Siying Hu ~~ 
 I received my PhD degree in Computer Science at City University of Hong Kong. Master of Interaction Design in Univeristy of Queensland. 
 
+Next:
+<p align="center">
+  <img src="/images/turtle-fieldwork-comic.png"
+       alt="Four-panel line-art comic about studying how to help overturned sea turtle hatchlings safely return to the ocean"
+       width="100%">
+</p>
+
 
 Research
 ======
