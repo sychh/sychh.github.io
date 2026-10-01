@@ -20,17 +20,17 @@ Next:
 
 Research
 ======
-My research interests lie at the intersection of Human-centred AI, Responsible AI and AI for Material & Embodied Intelligence. My work has been published in CHI, CSCW, UIST, Ubicomp, FAcct and EMNLP. Please check my [publications](https://scholar.google.com/citations?user=BJg8enwAAAAJ&hl=zh-TW) for more details (倒也没有那么勤奋). 
+My research interests lie at the intersection of Human-centred AI, Responsible AI and AI for Material & Embodied Intelligence. My work has been published in CHI, CSCW, UIST, Ubicomp, FAcct and EMNLP. Please check my [publications](https://scholar.google.com/citations?user=BJg8enwAAAAJ&hl=zh-TW) for more details (更文也没有那么勤奋). 
 My research interests include:
-*   Ambient Intelligence & Physcial Computing in Health and Medicine
-*   AI4Science & Intelligent Interactive Systems 
-*   LLM Safety & Alignment for Responsible AI 
+*   Ambient Intelligence & Physical Computing in Health and Medicine
+*   AI4Science in Materials, Devices & Therapeutics
+*   Human-centred Safety, Compliance & Alignment in Responsible AI 
 *   Inclusive Design in Practical and Novel Contexts 
 
 
 News
 ======
-Seasons change. Life persists. 昏黄暮色，晨曦微光，暴雨雷声，烈日骄阳，四季轮换。
+Seasons change. Life persists. 昏黄暮色，晨曦微光，暴雨雷声，烈日骄阳，四季轮换。人，忙着钓鱼。
 
 Academia is a chapter, not the whole story.
 
