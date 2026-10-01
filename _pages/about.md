@@ -10,7 +10,7 @@ redirect_from:
 Hi, this is Siying Hu ~~ 
 I received my PhD degree in Computer Science at City University of Hong Kong. Master of Interaction Design in Univeristy of Queensland. 
 
-Next:
+Next, back AU:
 <p align="center">
   <img src="/images/turtle-fieldwork-comic.png"
        alt="Four-panel line-art comic about studying how to help overturned sea turtle hatchlings safely return to the ocean"
@@ -34,7 +34,7 @@ Seasons change. Life persists. 昏黄暮色，晨曦微光，暴雨雷声，烈�
 
 Academia is a chapter, not the whole story.
 
-I'm currently in the Greater Bay Area, serving as a referee and coach for table tennis tournaments. Hoping to become an international referee in the future. 体育比赛执赛ing, ACCA财务审计是老本行，厨房下的还可以，业余爱好噶点网文而已~~~
+I'm currently in the Greater Bay Area, serving as a referee and coach for table tennis tournaments. Hoping to become an international referee in the future. 体育比赛执赛ing, ACCA财务审计是老本行，厨房下的还可以，业余爱好噶点网文而已。
 
 
 Academic Services
